@@ -1,0 +1,10 @@
+{
+  "name": "address_book_challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anastasiachyp <chypyhanastasia@yahoo.it>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
